@@ -1,3 +1,17 @@
+**2024-02-20: Forked from original**
+
+TODO:
+- Clean obsolete
+- Refactor
+- Study manifest v2, v3 and update if necessary
+- Add functionality
+      - Set Search result language
+- Fix
+      - First button (1day, 1year, 1month) not working
+<br />
+
+# &#8595; Readme from Original Repo &#8595;
+
 ### Google Search Extra Buttons
 
 [(show this instruction **in Russian**)](readmeRu.md)
