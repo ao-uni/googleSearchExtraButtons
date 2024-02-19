@@ -1,13 +1,13 @@
 **2024-02-20: Forked from original**
 
-TODO:
+__TODO__
 - Clean obsolete
 - Refactor
 - Study manifest v2, v3 and update if necessary
 - Add functionality
-      - Set Search result language
+  - Set Search result language
 - Fix
-      - First button (1day, 1year, 1month) not working
+  - First button (1day, 1year, 1month) not working
 <br />
 
 # &#8595; Readme from Original Repo &#8595;
