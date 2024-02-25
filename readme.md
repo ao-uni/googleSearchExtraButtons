@@ -6,6 +6,10 @@ __TODO__
 - Study manifest v2, v3 and update if necessary
 - Add functionality
   - Set Search result language
+  - Add ja
+  - Modify site search presets
+  - Improve button visibility
+  - Add dropdown for popular(?) choices: 1hr,6hr,1d,3d,7d,1m,3m,6m,1y
 - Fix
   - First button (1day, 1year, 1month) not working
 <br />
